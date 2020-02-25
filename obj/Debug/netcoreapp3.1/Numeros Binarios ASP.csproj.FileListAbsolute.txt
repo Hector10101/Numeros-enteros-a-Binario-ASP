@@ -1,0 +1,70 @@
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.exe
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.deps.json
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.runtimeconfig.json
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.runtimeconfig.dev.json
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.dll
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.pdb
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.Views.dll
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.Views.pdb
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.csprojAssemblyReference.cache
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\staticwebassets\Numeros Binarios ASP.StaticWebAssets.Manifest.cache
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\staticwebassets\Numeros Binarios ASP.StaticWebAssets.xml
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.RazorAssemblyInfo.cache
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.RazorAssemblyInfo.cs
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.AssemblyInfoInputs.cache
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.AssemblyInfo.cs
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.TagHelpers.input.cache
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.TagHelpers.output.cache
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.RazorCoreGenerate.cache
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.RazorTargetAssemblyInfo.cache
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.RazorTargetAssemblyInfo.cs
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.Views.pdb
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.dll
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.pdb
+C:\Users\Hector Sanchez\source\repos\Numeros Binarios ASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.csproj.CopyComplete
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.exe
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.deps.json
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.runtimeconfig.json
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.runtimeconfig.dev.json
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.dll
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.pdb
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.Views.dll
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\bin\Debug\netcoreapp3.1\Numeros Binarios ASP.Views.pdb
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.csprojAssemblyReference.cache
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\staticwebassets\Numeros Binarios ASP.StaticWebAssets.Manifest.cache
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\staticwebassets\Numeros Binarios ASP.StaticWebAssets.xml
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.RazorAssemblyInfo.cache
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.RazorAssemblyInfo.cs
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.AssemblyInfoInputs.cache
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.AssemblyInfo.cs
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.TagHelpers.input.cache
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.TagHelpers.output.cache
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.RazorCoreGenerate.cache
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.RazorTargetAssemblyInfo.cache
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.RazorTargetAssemblyInfo.cs
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.Views.pdb
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.dll
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.pdb
+C:\Users\Hector Sanchez\source\repos\NumerosBinariosASP\obj\Debug\netcoreapp3.1\Numeros Binarios ASP.csproj.CopyComplete
