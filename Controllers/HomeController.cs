@@ -22,18 +22,7 @@ namespace Numeros_Binarios_ASP.Controllers
         {
             return View();
         }
-
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-        [HttpPost]
-        public IActionResult Index(Numeros numero)
-        {
-            
-            return View(numero);
-
-        }
+        
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
